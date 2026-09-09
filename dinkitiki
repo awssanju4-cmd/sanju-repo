@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Character encoding for the document -->
+    <meta charset="UTF-8">
+    <!-- Ensures proper rendering and touch zooming on mobile devices -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- The title displayed in the browser tab -->
+    <title>My Sample Webpage</title>
+</head>
+<body>
+
+    <!-- Main Heading -->
+    <h1>Welcome to My First HTML Page</h1>
+    
+    <!-- Paragraph text with formatting -->
+    <p>This is a standard paragraph element. You can easily make text <strong>bold</strong> or <em>italicized</em> using basic tags.</p>
+    
+    <!-- Hyperlink (Opening in a new tab) -->
+    <p>Visit the official <a href="https://developer.mozilla.org" target="_blank">MDN Web Docs</a> for deep-dive tutorials.</p>
+    
+    <!-- Bulleted List -->
+    <h3>My Learning Goals:</h3>
+    <ul>
+        <li>Master basic HTML structure</li>
+        <li>Learn CSS layout styling</li>
+        <li>Add interactivity with JavaScript</li>
+    </ul>
+
+    <!-- Placeholder Image -->
+    <h3>Sample Image:</h3>
+    <img src="https://placeholder.com" alt="Placeholder image demonstrating the img tag layout" width="300" height="150">
+
+</body>
+</html>
+
